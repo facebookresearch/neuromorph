@@ -1,0 +1,5 @@
+__pycache__
+*.mex*
+data/checkpoint
+data/meshes
+data/out
